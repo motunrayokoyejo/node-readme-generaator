@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "read me generator ccreated with nodejs",
+  "main": "'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motunrayokoyejo/node-readme-generaator.git"
+  },
+  "author": "Motunrayo Koyejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motunrayokoyejo/node-readme-generaator/issues"
+  },
+  "homepage": "https://github.com/motunrayokoyejo/node-readme-generaator#readme"
+}
